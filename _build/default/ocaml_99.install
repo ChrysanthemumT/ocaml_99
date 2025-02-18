@@ -6,3 +6,6 @@ lib: [
 bin: [
   "_build/install/default/bin/ocaml_99"
 ]
+doc: [
+  "_build/install/default/doc/ocaml_99/README.md"
+]
